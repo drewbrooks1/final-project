@@ -1,0 +1,57 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    font-family: Helvetica, sans-serif;
+    font-weight: 100;
+    text-decoration: none;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+
+
+.h1 {
+    display: none;
+}
+
+.list {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 200px;
+    width: 200px;
+    list-style: none;
+    margin: auto;
+}
+
+
+
+.apples {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 250px;
+    width: 250px;
+    margin: auto;
+}
+
+.applesize {
+    width: 100%;
+    height: auto;
+}
